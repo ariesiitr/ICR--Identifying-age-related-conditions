@@ -4,6 +4,8 @@
 
 The objective of this project is to identify age-related conditions using a dataset provided for the "ICR - Identifying Age-Related Conditions" competition on Kaggle. The analysis involves data preprocessing, exploratory data analysis, feature engineering, and model building to predict the target variable related to age-related conditions.
 
+Since our data was cluttered, we had a lot of opportunities in this project, we worked on various preprocessing and analysis methods and found out the best features to rely on, we also discovered the use of a variety of metrics thereby improving our model accuracy.
+
 ## Data Description
 
 The dataset contains various features, including medical and demographic information. Key columns include:
